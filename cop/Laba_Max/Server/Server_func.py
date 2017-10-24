@@ -23,7 +23,7 @@ def minus(json):
     return x-y
 
 func_map = {
-    "sum" : sum
+    "sum" : sum,
     "minus" : minus
 }
 
